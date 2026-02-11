@@ -40,7 +40,7 @@ const arda = {
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,sass,jquery" />
 
 ### ⚙️ Backend & Veritabanı
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mysql,postgresql,mongodb,redis,firebase" />
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql,postgresql,mongodb,redis,firebase" />
 
 ### 🔧 Araçlar & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,linux" />
@@ -68,11 +68,11 @@ const arda = {
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geoarda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aloostor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoarda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aloostor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geoarda&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF00FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aloostor&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF00FF" alt="GitHub Streak" />
 </div>
 
 ---
@@ -136,8 +136,8 @@ const arda = {
 
 ### 🎯 Profil Görüntülenmeleri
 
-![Profile Views](https://komarev.com/ghpvc/?username=geoarda&color=00FFFF&style=for-the-badge&label=Profil+Görüntüleme)
-![GitHub followers](https://img.shields.io/github/followers/geoarda?style=for-the-badge&color=FF00FF&labelColor=1a1a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=Aloostor&color=00FFFF&style=for-the-badge&label=Profil+Görüntüleme)
+![GitHub followers](https://img.shields.io/github/followers/Aloostor?style=for-the-badge&color=FF00FF&labelColor=1a1a2e)
 
 </div>
 
