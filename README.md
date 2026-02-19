@@ -1,19 +1,28 @@
 # Hi there, I'm Arda! 👋
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=150&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=0D1117&animation=fadeIn" />
+</p>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=1E90FF;00BFFF;00FFFF;1E90FF&center=true&vCenter=true&width=700&lines=18+Yaşında+Full+Stack+Developer;ASP.NET+%26+Web+Development;ERP+Sistemleri+Geliştirici;Kodlama+Tutkunu" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=1E90FF;00BFFF;00FFFF&center=true&vCenter=true&width=700&lines=ASP.NET+Core+%26+ERP+Systems;Full+Stack+Web+Development;Game+Modding+Enthusiast;Building+Practical+Solutions" alt="Typing SVG" />
 </div>
+
+---
 
 ## 🚀 Hakkımda
 
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+
 ```typescript
 const arda = {
-    age: 18,
-    location: "İzmir, Turkey 🇹🇷",
-    experience: "5+ yıl kodlama deneyimi",
-    github_since: "2014",
-    passion: "Pratik çözümler üretmek",
-    motto: "Kod yazmak, problem çözmektir ✨"
+  age: 18,
+  location: "İzmir, TR 🇹🇷",
+  experience: "5+ years coding",
+  tech_stack: [".NET", "React", "SQL"],
+  motto: "Kod yazmak, problem çözmektir ✨"
 };
 ```
 <div align="center">
