@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=1E90FF;00BFFF;00FFFF&center=true&vCenter=true&width=700&lines=ASP.NET+Core+%26+ERP+Systems;Full+Stack+Web+Development;Game+Modding+Enthusiast;Building+Practical+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=1E90FF;00BFFF;00FFFF&center=true&vCenter=true&width=700&lines=ASP.NET+Core+%26+ERP+Systems;Full+Stack+Web+Development;Building+Practical+Solutions" alt="Typing SVG" />
 </div>
 
 ---
