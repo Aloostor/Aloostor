@@ -1,7 +1,7 @@
 # Hi there, I'm Arda! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=18+Yaşında+Full+Stack+Developer;ASP.NET+%26+Web+Development;ERP+Sistemleri+Geliştirici;Kodlama+Tutkunu" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=FF0000;00FF00;00FFFF;FF0000&center=true&vCenter=true&width=700&lines=18+Yaşında+Full+Stack+Developer;ASP.NET+%26+Web+Development;ERP+Sistemleri+Geliştirici;Kodlama+Tutkunu" alt="Typing SVG" />
 </div>
 
 ## 🚀 Hakkımda
