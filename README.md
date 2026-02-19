@@ -46,10 +46,10 @@ const arda = {
 <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,python,java,cpp,php,perl,swift,c" />
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,sass,jquery" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,jquery" />
 
 ### ⚙️ Backend & Veritabanı
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql,postgresql,mongodb,redis,firebase" />
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql,mongodb,firebase" />
 
 ### 🔧 Araçlar & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,linux" />
@@ -68,7 +68,7 @@ const arda = {
 | ASP.NET Development | ERP Sistemleri | Full Stack Web | Oyun Modding |
 |:---:|:---:|:---:|:---:|
 | ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white) | ![ERP](https://img.shields.io/badge/ERP-FF6B35?style=for-the-badge&logo=sap&logoColor=white) | ![Full Stack](https://img.shields.io/badge/Full_Stack-4ECDC4?style=for-the-badge&logo=stackexchange&logoColor=white) | ![Game Dev](https://img.shields.io/badge/Game_Dev-F38181?style=for-the-badge&logo=unity&logoColor=white) |
-| Web API & MVC | Kurumsal çözümler | Frontend + Backend | Unity & Custom mods |
+| Web API & MVC | Kurumsal çözümler | Frontend + Backend | Game mods |
 
 </div>
 
@@ -79,8 +79,6 @@ const arda = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aloostor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aloostor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aloostor&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF00FF" alt="GitHub Streak" />
 </div>
 
@@ -89,7 +87,6 @@ const arda = {
 ### 🎮 Oyun Modları & Projeler
 **Oyun Geliştirme Portföyü**
 - 🎯 Özel oyun mekanikleri
-- 🎨 Geliştirilmiş görsel efektler
 - ⚙️ Performans optimizasyonları
 - 🔧 Modding framework'leri
 - **Tech:** Unity, C#, Lua
