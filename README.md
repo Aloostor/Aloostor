@@ -2,7 +2,7 @@
 
 ### Full Stack Developer • ASP.NET Core • ERP Systems
 
-I build practical software solutions for real business needs, with a focus on clean architecture, simplicity, and maintainable systems.
+I build practical software solutions for real business needs, with a focus on clean architecture, maintainability, and user-friendly systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arda-a-020bb5380/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geoarda)
@@ -14,7 +14,7 @@ I build practical software solutions for real business needs, with a focus on cl
 - 5+ years of experience in software development
 - Mainly working with ASP.NET Core, C#, React, and SQL-based systems
 - Focused on ERP solutions, corporate applications, and web platforms
-- Interested in clean code, efficient architecture, and practical problem solving
+- Interested in clean code, scalable architecture, and practical problem solving
 
 ## Tech Stack
 
@@ -55,10 +55,9 @@ I build practical software solutions for real business needs, with a focus on cl
 
 ---
 
-## GitHub Stats
+## GitHub Highlights
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=geoarda&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=geoarda&theme=tokyonight&hide_border=true)
+[![Profile Views](https://komarev.com/ghpvc/?username=Aloostor&style=flat-square&color=0ea5e9)](https://github.com/Aloostor)
+[![GitHub followers](https://img.shields.io/github/followers/Aloostor?style=flat-square&logo=github&label=Followers)](https://github.com/Aloostor)
 
 > Building useful systems, solving real problems, and creating value through code.
