@@ -1,24 +1,15 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=140&section=header&text=Hi%2C%20I'm%20Arda&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-</div>
+<a href="https://github.com/geoarda">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=header&text=Hi%2C%20I'm%20Arda&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Arda banner" />
+</a>
 
-<h1 align="center">Arda</h1>
-<p align="center">
-  <strong>Full Stack Developer</strong> • ASP.NET Core • ERP Systems
-</p>
+# Arda
 
-<p align="center">
-  I build practical software solutions for business needs, with a focus on clean architecture, usability, and maintainable systems.
-</p>
+### Full Stack Developer • ASP.NET Core • ERP Systems
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/arda-a-020bb5380/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/geoarda">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+I build practical software solutions for real business needs, with a focus on clean architecture, usability, and maintainable systems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arda-a-020bb5380/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geoarda)
 
 ---
 
@@ -26,7 +17,7 @@
 
 - 5+ years of experience in software development
 - Mainly working with ASP.NET Core, C#, React, and SQL-based systems
-- Focused on ERP solutions, corporate applications, and scalable web platforms
+- Focused on ERP solutions, enterprise applications, and web platforms
 - Interested in clean code, efficient architecture, and practical problem solving
 
 ## Tech Stack
@@ -70,12 +61,8 @@
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aloostor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=22d3ee&text_color=e2e8f0" alt="GitHub Stats" />
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aloostor&show_icons=true&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aloostor&theme=tokyonight&hide_border=true&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=22d3ee&currStreakLabel=ffffff" alt="GitHub Streak" />
-</div>
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Aloostor&theme=tokyonight&hide_border=true)
 
 > Building useful systems, solving real problems, and creating value through code.
