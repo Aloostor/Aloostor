@@ -2,10 +2,16 @@
 
 ### Full Stack Developer • ASP.NET Core • ERP Systems
 
-I build practical software solutions for real business needs, with a focus on clean architecture, maintainability, and user-friendly systems.
+I build practical software solutions for real business needs, with a focus on clean architecture, maintainability, and usable systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arda-a-020bb5380/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geoarda)
+<div align="center">
+  <a href="https://www.linkedin.com/in/arda-a-020bb5380/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Aloostor">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
@@ -16,7 +22,7 @@ I build practical software solutions for real business needs, with a focus on cl
 - Focused on ERP solutions, corporate applications, and web platforms
 - Interested in clean code, scalable architecture, and practical problem solving
 
-## Tech Stack
+## Stack
 
 ### Backend
 - ASP.NET Core
@@ -57,7 +63,9 @@ I build practical software solutions for real business needs, with a focus on cl
 
 ## GitHub Highlights
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Aloostor&style=flat-square&color=0ea5e9)](https://github.com/Aloostor)
-[![GitHub followers](https://img.shields.io/github/followers/Aloostor?style=flat-square&logo=github&label=Followers)](https://github.com/Aloostor)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aloostor&style=flat-square&color=0ea5e9" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Aloostor?style=flat-square&logo=github&label=Followers" alt="GitHub followers" />
+</div>
 
 > Building useful systems, solving real problems, and creating value through code.
