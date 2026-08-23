@@ -2,9 +2,12 @@
 
 ### Full Stack Developer • ASP.NET Core • ERP Systems
 
-I build practical software solutions for real business needs, with a focus on clean architecture, maintainability, and usable systems.
+Building robust backend services, corporate ERP architectures, and practical web applications. Focused on clean code, database design, and high-performance workflows.
 
 <div align="center">
+  <a href="https://ardaportfoy.onrender.com/">
+    <img src="https://img.shields.io/badge/Live_Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/arda-a-020bb5380/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -15,49 +18,49 @@ I build practical software solutions for real business needs, with a focus on cl
 
 ---
 
-## About Me
+## Tech Stack
 
-- 5+ years of experience in software development
-- Mainly working with ASP.NET Core, C#, React, and SQL-based systems
-- Focused on ERP solutions, corporate applications, and web platforms
-- Interested in clean code, scalable architecture, and practical problem solving
+### Backend & APIs
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0055E6?style=for-the-badge&logo=fastapi&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
 
-## Stack
+### Frontend & UI
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
-- ASP.NET Core
-- C# / .NET
-- PHP
-- Node.js
+### Databases & ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Frontend
-- HTML5 / CSS3
-- JavaScript / TypeScript
-- React
-- Next.js
-- Bootstrap / Tailwind
+### Tools & Infrastructure
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-### Databases
-- MySQL
-- SQL Server
-- PostgreSQL
-- MongoDB
-- Firebase
-
-### Tools
-- Git / GitHub
-- VS Code / Visual Studio
-- Docker
-- Figma
-- Linux
+---
 
 ## Focus Areas
 
-- ERP systems
-- Corporate software development
-- Web APIs and backend engineering
-- Responsive web applications
-- Game modding and custom tools
+* **Corporate Systems:** Enterprise ERP tools, helpdesk/ticketing systems, and internal workflow automation.
+* **Backend Architecture:** RESTful APIs, database schema design, query optimization, and ORM integrations.
+* **Game Modding & Utilities:** Custom server logic, anti-cheat mechanics, and Lua scripting.
 
 ---
 
@@ -67,5 +70,3 @@ I build practical software solutions for real business needs, with a focus on cl
   <img src="https://komarev.com/ghpvc/?username=Aloostor&style=flat-square&color=0ea5e9" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Aloostor?style=flat-square&logo=github&label=Followers" alt="GitHub followers" />
 </div>
-
-> Building useful systems, solving real problems, and creating value through code.
